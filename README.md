@@ -39,3 +39,6 @@ Neste projeto, você irá desenvolver um aplicativo em Java para classificar ima
 
      ![Tela de classificação - melanoma](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/res/drawable/Screenshot_20240921-163130_SkinAlert.jpg)
 
+## Vídeo de demonstração funcional do SkinAlert
+
+
