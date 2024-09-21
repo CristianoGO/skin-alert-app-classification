@@ -21,7 +21,8 @@ Neste projeto, você irá desenvolver um aplicativo em Java para classificar ima
 * Instalar um dispositivo virtual no seu Android Studio
 * Ter um dispositivo físico, caso queira testar no próprio dispositivo
 * Baixar o modelo no formato TFLite do projeto https://github.com/CristianoGO/model-deep-learning-classified.git
-* Fazer a implementações do modelo no codigo do app
+* Fazer a implementações do modelo no código do app
+* Ajustar o código de acordo o seu projeto e executar
 
 ### Principais tela do SkinAlert
 
@@ -29,7 +30,12 @@ Neste projeto, você irá desenvolver um aplicativo em Java para classificar ima
 
   ![Home](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/res/drawable/Screenshot_20240921-162500_SkinAlert.jpg)
 
-* Tela de classificação, com um resultado para carcinoma basocelular e outro para melanoma
+* Tela de classificação
+  1. Resultado para carcinoma basocelular:
 
-  ![Tela de classificação - carcinoma basocelular](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/res/drawable/Screenshot_20240921-162943_SkinAlert.jpg) ![Tela de classificação - melanoma](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/res/drawable/Screenshot_20240921-163130_SkinAlert.jpg)
+     ![Tela de classificação - carcinoma basocelular](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/res/drawable/Screenshot_20240921-162943_SkinAlert.jpg)
+
+  2. Resultado para melanoma:
+
+     ![Tela de classificação - melanoma](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/res/drawable/Screenshot_20240921-163130_SkinAlert.jpg)
 
