@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/fundo"
+        android:layout_marginTop="50dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="320dp"
+        android:layout_marginRight="20dp"
+        android:text="O SkinAlert é um aplicativo android desenvolvido para classificar imagens dermatoscópicas.\n\nO App permite que o usuário tire fotos de lesões de pele para classificá-la como melanoma ou carcinoma basocelular.\n\nO resultado da classificação é exibido de acordo o diagnóstico da imagem, ajudando a identificar de forma precoce possíveis casos de câncer de pele."
+        android:textAlignment="center"
+        android:textColor="@color/lavender"
+        android:textSize="23dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
