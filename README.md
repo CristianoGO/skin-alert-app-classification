@@ -25,4 +25,11 @@ Neste projeto, você irá desenvolver um aplicativo em Java para classificar ima
 
 ### Principais tela do SkinAlert
 
+* Tela inicial
+
+  ![Home](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/res/drawable/Screenshot_20240921-162500_SkinAlert.jpg)
+
+* Tela de classificação, com um resultado para carcinoma basocelular e outro para melanoma
+
+  ![Tela de classificação - carcinoma basocelular](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/res/drawable/Screenshot_20240921-162943_SkinAlert.jpg) ![Tela de classificação - melanoma](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/res/drawable/Screenshot_20240921-163130_SkinAlert.jpg)
 
