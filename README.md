@@ -18,19 +18,7 @@ Neste projeto, você irá desenvolver um aplicativo em Java para classificar ima
    
 ### Requisitos nessesário
 
-* Transferência indutiva (Transfer learning)
-* MobileNetV2
-* Cross-validation
-
-### Considerações finais
-
-* O modelo foi treinado com 30 épocas, o que pode torna o processo de treinamento demorado, mas isso vai depender das configurações do seu computador
-* Após o treinamento de cada época é gerada uma matriz de confusão como na imagem abaixo:
-  
-  ![Matriz de confusão para cada fold](https://github.com/CristianoGO/model-deep-learning-classified/blob/main/coding/01-mobileNetV2/fold_30/Screenshot%20from%202024-09-21%2015-20-55.png)
-
-* Finalizado o treinamento é gerado os resultados para cada fold como mostra a imagem abaixo:
-
-  ![Resultados do treinamento do modelo para cada fold](https://github.com/CristianoGO/model-deep-learning-classified/blob/main/coding/01-mobileNetV2/fold_30/Screenshot%20from%202024-09-21%2015-21-19.png)
-
-### Segue essas orientações e faça as mudanças necessárias de acordo seu projeto para que os resultados seram obtidos. 
+* Instalar um dispositivo virtual no seu Android Studio
+* Ter um dispositivo físico, caso queira testar no próprio dispositivo
+* Baixar o modelo no formato TFLite do projeto https://github.com/CristianoGO/model-deep-learning-classified.git
+* Fazer a implementações do modelo no codigo
