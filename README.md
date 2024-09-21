@@ -28,3 +28,7 @@ Neste projeto, você irá desenvolver um aplicativo em Java para classificar ima
 
 ![Demonstração do SkinAlert](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/assets/c123-001_WK5i15m8.gif)
 
+## Referências para os ícones e imagens usadas no projeto:
+1. https://www.gratispng.com/
+2. https://icons8.com.br/
+3. https://www.flaticon.com/br/
