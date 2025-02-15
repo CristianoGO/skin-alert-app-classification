@@ -2,7 +2,7 @@
 
 ## Instruções do projeto
 
-Neste projeto, você irá desenvolver um aplicativo em Java para classificar imagem de câncer de pele como sendo melanoma ou carcinoma basocelular.
+Neste repositório, você irá encontar os arquivos e as recomendações para construção do aplicativo.
  
 ### Sistema operacional
 
