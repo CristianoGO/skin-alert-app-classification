@@ -20,7 +20,7 @@ Neste repositório, você irá encontar os arquivos e as recomendações para co
 
 * Instalar um dispositivo virtual no seu Android Studio
 * Ter um dispositivo físico, caso queira testar no próprio dispositivo
-* Baixar o modelo no formato TFLite do projeto https://github.com/CristianoGO/model-deep-learning-classification-image.git
+* Baixar o modelo no formato TFLite do projeto: https://github.com/CristianoGO/Dermoscopic-image-classification-model.git
 * Fazer a implementações do modelo no código do app
 * Ajustar o código de acordo o seu projeto e executar
 
