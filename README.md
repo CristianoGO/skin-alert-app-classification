@@ -1,4 +1,4 @@
-# Construção do aplicativo SkinAlert, usando uma rede neural otimizada com base na arquitetura MobileNetV2 para a classificação de lesões de pele em imagens dermatoscópicas.
+## Construção do aplicativo SkinAlert, usando uma rede neural otimizada com base na arquitetura MobileNetV2 para a classificação de lesões de pele em imagens dermatoscópicas.
 
 ## Instruções do projeto
 
