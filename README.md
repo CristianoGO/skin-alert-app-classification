@@ -1,4 +1,4 @@
-# SkinAlert um aplicativo android desenvolvido para classificar imagens dermatoscópicas
+# SkinAlert um aplicativo Android desenvolvido para classificar imagens dermatoscópicas
 
 ## Instruções do projeto
 
