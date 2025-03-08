@@ -23,19 +23,34 @@ Neste repositório, você irá encontar os arquivos e as recomendações para co
 * Baixar o modelo no formato TFLite do projeto: https://github.com/CristianoGO/Dermoscopic-image-classification-model.git
 * Fazer a implementações do modelo no código do app
 * Ajustar o código de acordo o seu projeto e executar
-
-### Passos para clonar o repositório para sua máquina local
-1. **Abra o terminal** e vá até o diretório onde deseja salvar o repositório.
-2. **Execute o seguinte comando para clonar:**
-   ``` bash
-   git clone <URL_DO_REPOSITORIO>
-
-   ```
- 
+* 
 ## Vídeo de demonstração do SkinAlert
 
 ![Demonstração do SkinAlert](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/assets/c123-001_WK5i15m8.gif)
 
+### Passos para clonar o repositório para sua máquina local
+1. **Abra o terminal** e vá até o diretório onde deseja salvar o repositório.
+2. **Execute o seguinte comando para clonar:**
+``` bash
+   git clone git clone https://github.com/usuario/repo.git
+```
+Substitua usuario pelo nome do dono do repositório e repo pelo nome do repositório.
+Se o repositório for privado, você precisará de autenticação. Pode ser necessário usar um token de acesso do GitHub.
+3. **Depois de clonar, entre no diretório do repositório com:**
+``` bash
+   cd repo
+```
+4. **Instalar Dependências. Dependendo do tipo do projeto, você precisará instalar algumas dependências antes de executar.**
+Java (se for um projeto Java)
+Compile e execute usando:
+``` bash
+   javac NomeDoArquivo.java
+   java NomeDoArquivo
+```
+5. **Execute o projeto (Para rodar um projeto Java):**
+``` bash
+java NomeDoArquivo
+```
 ## Referências para os ícones e imagens usadas no projeto:
 1. https://www.gratispng.com/
 2. https://icons8.com.br/
