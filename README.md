@@ -29,13 +29,17 @@ Neste repositório, você irá encontar os arquivos e as recomendações para co
 ![Demonstração do SkinAlert](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/assets/c123-001_WK5i15m8.gif)
 
 ### Passos para clonar o repositório para sua máquina local
-1. **Abra o terminal** e vá até o diretório onde deseja salvar o repositório.
-2. **Execute o seguinte comando para clonar:**
+1. **Abra o terminal e vá até o diretório onde deseja salvar o repositório.**
+``` bash
+   cd /home/local_para_clonar
+```
+3. **Execute o seguinte comando para clonar:**
 ``` bash
    git clone git clone https://github.com/usuario/repo.git
 ```
 Substitua usuario pelo nome do dono do repositório e repo pelo nome do repositório.
 Se o repositório for privado, você precisará de autenticação. Pode ser necessário usar um token de acesso do GitHub.
+
 3. **Depois de clonar, entre no diretório do repositório com:**
 ``` bash
    cd repo
