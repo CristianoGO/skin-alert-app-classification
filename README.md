@@ -31,30 +31,33 @@ Neste repositório, você irá encontar os arquivos e as recomendações para co
 ### Passos para clonar o repositório para sua máquina local
 1. **Abra o terminal e vá até o diretório onde deseja salvar o repositório.**
 ``` bash
-   cd /home/local_para_clonar
+   user@user-ubuntu-desktop:~$ cd /home/local_para_clonar
 ```
 3. **Execute o seguinte comando para clonar:**
 ``` bash
-   git clone git clone https://github.com/usuario/repo.git
+   user@user-ubuntu-desktop:~$ git clone git clone https://github.com/usuario/repo.git
 ```
 Substitua usuario pelo nome do dono do repositório e repo pelo nome do repositório.
 Se o repositório for privado, você precisará de autenticação. Pode ser necessário usar um token de acesso do GitHub.
 
 3. **Depois de clonar, entre no diretório do repositório com:**
 ``` bash
-   cd repo
+   user@user-ubuntu-desktop:~$ cd repo
 ```
 4. **Instalar Dependências. Dependendo do tipo do projeto, você precisará instalar algumas dependências antes de executar.**
 Java (se for um projeto Java)
 Compile e execute usando:
 ``` bash
-   javac NomeDoArquivo.java
-   java NomeDoArquivo
+   user@user-ubuntu-desktop:~$ javac NomeDoArquivo.java
+   user@user-ubuntu-desktop:~$ java NomeDoArquivo
 ```
 5. **Execute o projeto (Para rodar um projeto Java):**
 ``` bash
-java NomeDoArquivo
+   user@user-ubuntu-desktop:~$ java NomeDoArquivo
 ```
+
+### Aós esses passos faça as alteraçẽos necessárioa no projeto para funcionar em seu ambiente de desenvolvimento.
+
 ## Referências para os ícones e imagens usadas no projeto:
 1. https://www.gratispng.com/
 2. https://icons8.com.br/
