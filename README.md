@@ -33,7 +33,7 @@ Neste repositório, você irá encontar os arquivos e as recomendações para co
 ``` bash
    user@user-ubuntu-desktop:~$ cd /home/local_para_clonar
 ```
-3. **Execute o seguinte comando para clonar:**
+2. **Execute o seguinte comando para clonar:**
 ``` bash
    user@user-ubuntu-desktop:~$ git clone git clone https://github.com/usuario/repo.git
 ```
