@@ -14,7 +14,7 @@ Neste repositório, você irá encontar os arquivos e as recomendações para co
 
 ### Ambiente de desenvolvimento
 
-* Android Studio (versão 2021.2.1 Chipmunk). Baixe em https://developer.android.com/studio/archive?hl=pt-br
+* Android Studio (versão 2021.2.1 Chipmunk). Disponível em: https://developer.android.com/studio/archive?hl=pt-br
    
 ### Requisitos nessesário
 
