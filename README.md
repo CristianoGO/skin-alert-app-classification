@@ -6,11 +6,11 @@ Neste repositório, você irá encontar os arquivos e as recomendações para co
  
 ### Sistema operacional
 
-* Linux Ubuntu na versão 24.04.1 LTS
+* Linux Ubuntu (versão 24.04.1 LTS)
  
 ### Linguagem de programação 
 
-* Java
+* Java (versão 11.0.26)
 
 ### Ambiente de desenvolvimento
 
@@ -24,6 +24,14 @@ Neste repositório, você irá encontar os arquivos e as recomendações para co
 * Fazer a implementações do modelo no código do app
 * Ajustar o código de acordo o seu projeto e executar
 
+### Passos para clonar o repositório para sua máquina local
+1. **Abra o terminal** e vá até o diretório onde deseja salvar o repositório.
+2. **Execute o seguinte comando para clonar:**
+   ``` bash
+   git clone <URL_DO_REPOSITORIO>
+
+   ```
+ 
 ## Vídeo de demonstração do SkinAlert
 
 ![Demonstração do SkinAlert](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/assets/c123-001_WK5i15m8.gif)
