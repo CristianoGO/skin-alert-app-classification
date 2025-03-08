@@ -56,7 +56,7 @@ Compile e execute usando:
    user@user-ubuntu-desktop:~$ java NomeDoArquivo
 ```
 
-### Aós esses passos faça as alteraçẽos necessárioa no projeto para funcionar em seu ambiente de desenvolvimento.
+### Após esses passos faça as alteraçẽos necessárioa no projeto para funcionar em seu ambiente de desenvolvimento.
 
 ## Referências para os ícones e imagens usadas no projeto:
 1. https://www.gratispng.com/
