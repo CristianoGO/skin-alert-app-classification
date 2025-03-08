@@ -1,4 +1,4 @@
-# SkinAlert um aplicativo Android desenvolvido para classificar imagens dermatoscópicas
+# Construção do aplicativo SkinAlert, usando uma rede neural otimizada com base na arquitetura MobileNetV2 para a classificação de lesões de pele em imagens dermatoscópicas.
 
 ## Instruções do projeto
 
@@ -6,30 +6,30 @@ Neste repositório, você irá encontar os arquivos e as recomendações para co
  
 ### Sistema operacional
 
-* Linux Ubuntu (versão 24.04.1 LTS)
+* Linux Ubuntu (versão 24.04.1 LTS).
  
 ### Linguagem de programação 
 
-* Java (versão 11.0.26)
+* Java (versão 11.0.26).
 
 ### Ambiente de desenvolvimento
 
-* Android Studio (versão 2021.2.1 Chipmunk). Disponível em: https://developer.android.com/studio/archive?hl=pt-br
+* Android Studio (versão 2021.2.1 Chipmunk). Disponível em: (https://developer.android.com/studio/archive?hl=pt-br).
    
 ### Requisitos nessesário
 
-* Instalar um dispositivo virtual no seu Android Studio
-* Ter um dispositivo físico, caso queira testar no próprio dispositivo
-* Baixar o modelo no formato TFLite do projeto: https://github.com/CristianoGO/Dermoscopic-image-classification-model.git
-* Fazer a implementações do modelo no código do app
-* Ajustar o código de acordo o seu projeto e executar
-* 
+* Instalar um dispositivo virtual no seu Android Studio;
+* Ter um dispositivo físico, caso queira testar no próprio dispositivo;
+* Baixar o modelo convertido e implantado no aplicativo no respositório disponível em:(https://github.com/CristianoGO/Dermoscopic-image-classification-model.git);
+* Fazer a implementações do modelo no código do app;
+* Ajustar o código de acordo o seu projeto e executar.
+  
 ### Vídeo de demonstração do SkinAlert
 
 ![Demonstração do SkinAlert](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/assets/c123-001_WK5i15m8.gif)
 
 ### Passos para clonar o repositório para sua máquina local
-1. **Abra o terminal e vá até o diretório onde deseja salvar o repositório.**
+1. **Abra o terminal e vá até o diretório onde deseja salvar o repositório:**
 ``` bash
    user@user-ubuntu-desktop:~$ cd /home/local_para_clonar
 ```
@@ -55,8 +55,7 @@ Compile e execute usando:
 ``` bash
    user@user-ubuntu-desktop:~$ java NomeDoArquivo
 ```
-
-### Após esses passos faça as alteraçẽos necessárioa no projeto para funcionar em seu ambiente de desenvolvimento.
+Após esses passos faça as alteraçẽos necessárioa no projeto para funcionar em seu ambiente de desenvolvimento.
 
 ### Referências para os ícones e imagens usadas no projeto:
 1. https://www.gratispng.com/
